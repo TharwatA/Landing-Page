@@ -1,1 +1,1 @@
-# Landing-Page
+Preparing a Landing-Page as training for CSS!

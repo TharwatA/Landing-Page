@@ -144,3 +144,45 @@
 /*********************CALL-TO-ACTION SECTION*********************/
 
 
+.sign-up-container-1 {
+    justify-content: center;
+    /* width: 1000px; */
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+}
+
+.sign-up-container-2 {
+    display: flex;
+    justify-content: center;
+    background-color: #3882F6;
+    padding: 50px 200px;
+    gap: 550px;
+    border-radius: 10px;
+}
+
+.sign-up-text {
+    color: white;
+}
+
+.button-down {
+    background-color: #3882F6;
+    color: white;
+    padding: 10px 32px;
+    margin-top: 10px;
+    border: 2px solid white;
+    border-radius: 15%;
+    cursor: pointer;
+}
+
+
+
+/*********************FOOTER SECTION*********************/
+
+
+.footer-container {
+    background-color: #1f2937;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
